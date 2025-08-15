@@ -1,4 +1,4 @@
-# 🚗 Chancela Automática com Reconhecimento de Placas
+# 🚗 Chancela automática com reconhecimento de placas
 
 ## 📌 Introdução
 A crescente demanda por **segurança** e **agilidade** no controle de acesso a estacionamentos, condomínios e áreas restritas impulsiona o uso de soluções tecnológicas avançadas.  
