@@ -26,3 +26,24 @@ flowchart LR
     C --> D[Validação no Banco de Dados]
     D -- Autorizado --> E[ESP32 Aciona Chancela]
     D -- Não Autorizado --> F[Negar Acesso]
+## 🚀 Como Executar
+
+📥 **1. Clone o repositório**  
+```bash
+git clone https://github.com/seuusuario/projeto-chancela.git
+
+📂 2. Acesse a pasta do projeto
+cd projeto-chancela
+
+⚙️ 3. Instale as dependências
+pip install -r requirements.txt
+
+🛠 4. Configure as variáveis de ambiente no arquivo .env:
+
+🌐 IP da ESP32
+
+🗄 Credenciais do banco de dados
+⚡ Outros parâmetros necessários para execução
+
+▶️ 5. Execute o sistema
+python main.py
